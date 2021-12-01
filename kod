@@ -1,2 +1,0 @@
-from rdkit import Chem
-m1 = Chem.MolFromSmiles('CO(C)C')
